@@ -1,4 +1,4 @@
-let SMS = require('../api/models/model');
+let SMS = require('../api/model');
 
 //Require the dev-dependencies
 let chai = require('chai');
