@@ -21,6 +21,7 @@ $ npm install
 ```
 
 ### Running the servers
+```bash
 $ cd SMS_Microservice
 
 $ node server.js
