@@ -21,11 +21,6 @@ $ npm install
 ```
 
 ### Running the servers
-- Setup a MongoDB Atlas cluster under free tier plan and create a ```.env``` file in ```SMS_Microservice``` folders under the following schema:
-```
-MONGODB_URI="<YOUR-CONNECTION-STRING-HERE>"
-```
-- Add the variable ```TOKEN_SECRET="1234567890"``` in your ```.env``` file.
 ```bash
 $ cd SMS_Microservice
 
